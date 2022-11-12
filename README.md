@@ -1,5 +1,5 @@
-# Meu primeiro projeto Dio
-Desafio de projeto sobre Git e Github pela Dio.
+# Projeto de Git e Github
 
-## Link para Markdown
-[Sintaxe básica markdown](https://www.markdownguide.org/getting-started/#what-is-markdown)
+Desafio de projeto sobre Git e Github. Meu primeiro desafio de projeto para a plataforma Dio.
+
+Inclusão de certificados e anotações sobre atalhos no Git Bash.
