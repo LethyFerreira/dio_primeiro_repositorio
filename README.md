@@ -2,4 +2,4 @@
 
 Desafio de projeto sobre Git e Github. Meu primeiro desafio de projeto para a plataforma Dio.
 
-Inclusão de certificados e anotações sobre atalhos no Git Bash.
+Inclusão de certificados.
